@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Video Dubber",
+  "description": "AI-powered video dubbing tool that translates video audio into Brazilian Portuguese or Latin American Spanish using Gemini's multimodal and TTS capabilities.",
+  "requestFramePermissions": []
+}
